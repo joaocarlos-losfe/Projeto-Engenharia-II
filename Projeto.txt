@@ -1,0 +1,12 @@
+﻿Nome do projeto:
+	-Livroteca
+
+Professor:
+	-Leonardo Pereira de Sousa
+
+Lista de membros do projeto:
+	-João carlos de sousa fé - Programador (frontend/backend)
+	-Daniel maforte - Engenheiro 
+	-Felipe Martins - Engenheiro
+	-Henrique - Design/arquiteto
+	-Thompson Rodigues - Tester/arquiteto
